@@ -1,7 +1,11 @@
 #ifndef TERMINALINPUTOUTPUT_H
 #define TERMINALINPUTOUTPUT_H
 
-#include <calculateprimes.h>
+// the configured options and settings for Tutorial
+#define Tutorial_VERSION_MAJOR @Tutorial_VERSION_MAJOR@
+#define Tutorial_VERSION_MINOR @Tutorial_VERSION_MINOR@
+
+#include "calculateprimes.h"
 
 #include <cstdlib>
 #include <iostream>
@@ -10,8 +14,6 @@
 
 class TerminalInputOutput
 {
-
-	const std::string escapeString = "exit";
 
 public:
 	TerminalInputOutput();

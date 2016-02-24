@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/michaelbethke/Desktop/EratosthenesSieveImplementation/src/calculateprimes.cpp
+calculateprimes.h
+/Users/michaelbethke/Desktop/EratosthenesSieveImplementation/src/calculateprimes.h
+
+/Users/michaelbethke/Desktop/EratosthenesSieveImplementation/src/calculateprimes.h
+vector
+-
+
+/Users/michaelbethke/Desktop/EratosthenesSieveImplementation/src/main.cpp
+terminalinputoutput.h
+/Users/michaelbethke/Desktop/EratosthenesSieveImplementation/src/terminalinputoutput.h
+
+/Users/michaelbethke/Desktop/EratosthenesSieveImplementation/src/terminalinputoutput.cpp
+terminalinputoutput.h
+/Users/michaelbethke/Desktop/EratosthenesSieveImplementation/src/terminalinputoutput.h
+
+/Users/michaelbethke/Desktop/EratosthenesSieveImplementation/src/terminalinputoutput.h
+calculateprimes.h
+/Users/michaelbethke/Desktop/EratosthenesSieveImplementation/src/calculateprimes.h
+cstdlib
+-
+iostream
+-
+string
+-
+
