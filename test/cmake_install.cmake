@@ -1,4 +1,4 @@
-# Install script for directory: /Users/michaelbethke/Desktop/EratosthenesSieveImplementation
+# Install script for directory: /Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,5 +35,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/michaelbethke/Desktop/EratosthenesSieveImplementation/test/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation/test/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

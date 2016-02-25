@@ -6,13 +6,14 @@ TerminalInputOutput::TerminalInputOutput()
 {
 
 	string inputString = "";
-	int inputNumber = 0.0;
-	vector<int> smallerPrimes = {};
+	int inputNumber = 0;
+	vector<int> smallerPrimes;
 
 	cout << endl << "Enter a number: ";
-	getline (cin, inputString);
+	cin >> inputNumber;
+	/*getline (cin, inputString);
 
-	inputNumber = stof(inputString);
+	inputNumber = stof(inputString);*/
 
 	CalculatePrimes calculatorFunction;
 	calculatorFunction.CalculateSmallerPrimes(inputNumber, smallerPrimes);

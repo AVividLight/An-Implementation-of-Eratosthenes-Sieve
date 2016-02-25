@@ -43,10 +43,10 @@ RM = /Applications/CMake.app/Contents/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/michaelbethke/Desktop/EratosthenesSieveImplementation
+CMAKE_SOURCE_DIR = /Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/michaelbethke/Desktop/EratosthenesSieveImplementation/test
+CMAKE_BINARY_DIR = /Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation/test
 
 # Include any dependencies generated for this target.
 include CMakeFiles/EratosthenesSieveImplementation.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/EratosthenesSieveImplementation.dir/flags.make
 
 CMakeFiles/EratosthenesSieveImplementation.dir/src/main.cpp.o: CMakeFiles/EratosthenesSieveImplementation.dir/flags.make
 CMakeFiles/EratosthenesSieveImplementation.dir/src/main.cpp.o: ../src/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/michaelbethke/Desktop/EratosthenesSieveImplementation/test/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/EratosthenesSieveImplementation.dir/src/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/EratosthenesSieveImplementation.dir/src/main.cpp.o -c /Users/michaelbethke/Desktop/EratosthenesSieveImplementation/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation/test/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/EratosthenesSieveImplementation.dir/src/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/EratosthenesSieveImplementation.dir/src/main.cpp.o -c /Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation/src/main.cpp
 
 CMakeFiles/EratosthenesSieveImplementation.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/EratosthenesSieveImplementation.dir/src/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /Users/michaelbethke/Desktop/EratosthenesSieveImplementation/src/main.cpp > CMakeFiles/EratosthenesSieveImplementation.dir/src/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation/src/main.cpp > CMakeFiles/EratosthenesSieveImplementation.dir/src/main.cpp.i
 
 CMakeFiles/EratosthenesSieveImplementation.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/EratosthenesSieveImplementation.dir/src/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /Users/michaelbethke/Desktop/EratosthenesSieveImplementation/src/main.cpp -o CMakeFiles/EratosthenesSieveImplementation.dir/src/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation/src/main.cpp -o CMakeFiles/EratosthenesSieveImplementation.dir/src/main.cpp.s
 
 CMakeFiles/EratosthenesSieveImplementation.dir/src/main.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/EratosthenesSieveImplementation.dir/src/main.cpp.o.provides.build: CM
 
 CMakeFiles/EratosthenesSieveImplementation.dir/src/terminalinputoutput.cpp.o: CMakeFiles/EratosthenesSieveImplementation.dir/flags.make
 CMakeFiles/EratosthenesSieveImplementation.dir/src/terminalinputoutput.cpp.o: ../src/terminalinputoutput.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/michaelbethke/Desktop/EratosthenesSieveImplementation/test/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/EratosthenesSieveImplementation.dir/src/terminalinputoutput.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/EratosthenesSieveImplementation.dir/src/terminalinputoutput.cpp.o -c /Users/michaelbethke/Desktop/EratosthenesSieveImplementation/src/terminalinputoutput.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation/test/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/EratosthenesSieveImplementation.dir/src/terminalinputoutput.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/EratosthenesSieveImplementation.dir/src/terminalinputoutput.cpp.o -c /Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation/src/terminalinputoutput.cpp
 
 CMakeFiles/EratosthenesSieveImplementation.dir/src/terminalinputoutput.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/EratosthenesSieveImplementation.dir/src/terminalinputoutput.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /Users/michaelbethke/Desktop/EratosthenesSieveImplementation/src/terminalinputoutput.cpp > CMakeFiles/EratosthenesSieveImplementation.dir/src/terminalinputoutput.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation/src/terminalinputoutput.cpp > CMakeFiles/EratosthenesSieveImplementation.dir/src/terminalinputoutput.cpp.i
 
 CMakeFiles/EratosthenesSieveImplementation.dir/src/terminalinputoutput.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/EratosthenesSieveImplementation.dir/src/terminalinputoutput.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /Users/michaelbethke/Desktop/EratosthenesSieveImplementation/src/terminalinputoutput.cpp -o CMakeFiles/EratosthenesSieveImplementation.dir/src/terminalinputoutput.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation/src/terminalinputoutput.cpp -o CMakeFiles/EratosthenesSieveImplementation.dir/src/terminalinputoutput.cpp.s
 
 CMakeFiles/EratosthenesSieveImplementation.dir/src/terminalinputoutput.cpp.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/EratosthenesSieveImplementation.dir/src/terminalinputoutput.cpp.o.pro
 
 CMakeFiles/EratosthenesSieveImplementation.dir/src/calculateprimes.cpp.o: CMakeFiles/EratosthenesSieveImplementation.dir/flags.make
 CMakeFiles/EratosthenesSieveImplementation.dir/src/calculateprimes.cpp.o: ../src/calculateprimes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/michaelbethke/Desktop/EratosthenesSieveImplementation/test/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/EratosthenesSieveImplementation.dir/src/calculateprimes.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/EratosthenesSieveImplementation.dir/src/calculateprimes.cpp.o -c /Users/michaelbethke/Desktop/EratosthenesSieveImplementation/src/calculateprimes.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation/test/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/EratosthenesSieveImplementation.dir/src/calculateprimes.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/EratosthenesSieveImplementation.dir/src/calculateprimes.cpp.o -c /Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation/src/calculateprimes.cpp
 
 CMakeFiles/EratosthenesSieveImplementation.dir/src/calculateprimes.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/EratosthenesSieveImplementation.dir/src/calculateprimes.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /Users/michaelbethke/Desktop/EratosthenesSieveImplementation/src/calculateprimes.cpp > CMakeFiles/EratosthenesSieveImplementation.dir/src/calculateprimes.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation/src/calculateprimes.cpp > CMakeFiles/EratosthenesSieveImplementation.dir/src/calculateprimes.cpp.i
 
 CMakeFiles/EratosthenesSieveImplementation.dir/src/calculateprimes.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/EratosthenesSieveImplementation.dir/src/calculateprimes.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /Users/michaelbethke/Desktop/EratosthenesSieveImplementation/src/calculateprimes.cpp -o CMakeFiles/EratosthenesSieveImplementation.dir/src/calculateprimes.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation/src/calculateprimes.cpp -o CMakeFiles/EratosthenesSieveImplementation.dir/src/calculateprimes.cpp.s
 
 CMakeFiles/EratosthenesSieveImplementation.dir/src/calculateprimes.cpp.o.requires:
 
@@ -143,7 +143,7 @@ EratosthenesSieveImplementation: CMakeFiles/EratosthenesSieveImplementation.dir/
 EratosthenesSieveImplementation: CMakeFiles/EratosthenesSieveImplementation.dir/src/calculateprimes.cpp.o
 EratosthenesSieveImplementation: CMakeFiles/EratosthenesSieveImplementation.dir/build.make
 EratosthenesSieveImplementation: CMakeFiles/EratosthenesSieveImplementation.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/michaelbethke/Desktop/EratosthenesSieveImplementation/test/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable EratosthenesSieveImplementation"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation/test/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable EratosthenesSieveImplementation"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/EratosthenesSieveImplementation.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -162,6 +162,6 @@ CMakeFiles/EratosthenesSieveImplementation.dir/clean:
 .PHONY : CMakeFiles/EratosthenesSieveImplementation.dir/clean
 
 CMakeFiles/EratosthenesSieveImplementation.dir/depend:
-	cd /Users/michaelbethke/Desktop/EratosthenesSieveImplementation/test && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/michaelbethke/Desktop/EratosthenesSieveImplementation /Users/michaelbethke/Desktop/EratosthenesSieveImplementation /Users/michaelbethke/Desktop/EratosthenesSieveImplementation/test /Users/michaelbethke/Desktop/EratosthenesSieveImplementation/test /Users/michaelbethke/Desktop/EratosthenesSieveImplementation/test/CMakeFiles/EratosthenesSieveImplementation.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation/test && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation /Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation /Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation/test /Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation/test /Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation/test/CMakeFiles/EratosthenesSieveImplementation.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/EratosthenesSieveImplementation.dir/depend
 

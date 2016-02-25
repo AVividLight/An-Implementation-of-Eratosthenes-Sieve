@@ -6,25 +6,25 @@
 
 #IncludeRegexTransform: 
 
-/Users/michaelbethke/Desktop/EratosthenesSieveImplementation/src/calculateprimes.cpp
+/Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation/src/calculateprimes.cpp
 calculateprimes.h
-/Users/michaelbethke/Desktop/EratosthenesSieveImplementation/src/calculateprimes.h
+/Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation/src/calculateprimes.h
 
-/Users/michaelbethke/Desktop/EratosthenesSieveImplementation/src/calculateprimes.h
+/Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation/src/calculateprimes.h
 vector
 -
 
-/Users/michaelbethke/Desktop/EratosthenesSieveImplementation/src/main.cpp
+/Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation/src/main.cpp
 terminalinputoutput.h
-/Users/michaelbethke/Desktop/EratosthenesSieveImplementation/src/terminalinputoutput.h
+/Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation/src/terminalinputoutput.h
 
-/Users/michaelbethke/Desktop/EratosthenesSieveImplementation/src/terminalinputoutput.cpp
+/Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation/src/terminalinputoutput.cpp
 terminalinputoutput.h
-/Users/michaelbethke/Desktop/EratosthenesSieveImplementation/src/terminalinputoutput.h
+/Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation/src/terminalinputoutput.h
 
-/Users/michaelbethke/Desktop/EratosthenesSieveImplementation/src/terminalinputoutput.h
+/Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation/src/terminalinputoutput.h
 calculateprimes.h
-/Users/michaelbethke/Desktop/EratosthenesSieveImplementation/src/calculateprimes.h
+/Users/michaelbethke/Documents/Development/Projects/C++/EratosthenesSieveImplementation/src/calculateprimes.h
 cstdlib
 -
 iostream
