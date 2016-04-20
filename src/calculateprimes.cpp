@@ -6,7 +6,7 @@ void CalculatePrimes::CalculateSmallerPrimes (int parentInt, std::vector<int>& s
 	if (parentInt > 1)
 	{
 
-		/* Thanks to Abhinav Priyadarshi! */
+		/* Thanks to Abhinav Priyadarshi! & https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes */
 		bool primes[parentInt];
 		memset(primes, true, sizeof(primes));
 

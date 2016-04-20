@@ -4,7 +4,7 @@ project (EratosthenesSieveImplementation)
 set (EratosthenesSieveImplementation_VERSION_MAJOR 0)
 set (EratosthenesSieveImplementation_VERSION_MINOR 1)
 
-set(SOURCES src/main.cpp src/terminalinputoutput.cpp src/terminalinputoutput.h src/calculateprimes.cpp src/calculateprimes.h)
+set(SOURCES src/main.cpp src/terminalinputoutput.cpp src/calculateprimes.cpp)
 add_executable(EratosthenesSieveImplementation ${SOURCES})
 
 set_property(TARGET EratosthenesSieveImplementation PROPERTY CXX_STANDARD 11)

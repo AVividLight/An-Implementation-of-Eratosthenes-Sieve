@@ -11,7 +11,7 @@ TerminalInputOutput::TerminalInputOutput()
 
 	cout << endl << "Enter a number: ";
 	cin >> inputNumber; // Delete if C++11 is available
-	
+
 	//getline (cin, inputString); // Uncomment if C++11 is available
 	//inputNumber = stof(inputString); // Uncomment if C++11 is available
 
